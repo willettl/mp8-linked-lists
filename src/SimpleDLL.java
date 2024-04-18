@@ -4,6 +4,12 @@ import java.util.ListIterator;
 import java.util.NoSuchElementException;
 
 /**
+ * Implementation of simple doubly linked lists
+ *
+ * @author Samuel A. Rebelsky
+ */
+
+/**
  * Simple doubly-linked lists.
  *
  * These do *not* (yet) support the Fail Fast policy.
